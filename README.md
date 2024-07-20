@@ -6,7 +6,7 @@ J'ai voulu créér un menu de barre d'onglets animé simple en utilisant le HTML
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/menu_avec_indicateurs/
 
 ## Développez avec
 
